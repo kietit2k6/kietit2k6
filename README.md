@@ -48,13 +48,13 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=kietit2k6&theme=tokyonight&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.shion.dev/api?username=kietit2k6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com?user=kietit2k6&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=kietit2k6&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kietit2k6&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kietit2k6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
