@@ -48,17 +48,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kietit2k6&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietit2k6&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kietit2k6&theme=dark&hide_border=true&background=0D1117" />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Lovell06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Lovell06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lovell06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 📬 Get In Touch
