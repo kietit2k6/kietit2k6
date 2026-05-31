@@ -48,10 +48,13 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lovell06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lovell06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lovell06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kietit2k6&theme=github_dark&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=kietit2k6&theme=github-dark-blue&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kietit2k6&theme=github_dark&hide_border=true&layout=compact)
 ---
 
 ## 📬 Get In Touch
