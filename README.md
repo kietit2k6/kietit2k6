@@ -50,11 +50,12 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kietit2k6&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=kietit2k6&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![](https://streak-stats.demolab.com?user=kietit2k6&theme=github-dark-blue&hide_border=true)
+![](https://streak-stats.demolab.com?user=kietit2k6&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kietit2k6&theme=github_dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kietit2k6&theme=tokyonight&hide_border=true&layout=compact)
+
 ---
 
 ## 📬 Get In Touch
