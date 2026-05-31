@@ -51,16 +51,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kietit2k6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kietit2k6&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kietit2k6&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kietit2k6&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietit2k6&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kietit2k6&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p> sai gì vậy
 
 
 
